@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BadalChavan
-- 👀 I’m interested in ... Web Development  
+- 👀 I’m interested in ... DEVOPS
 - 🌱 I’m currently learning ... Devops With AWS
 - 💞️ I’m looking to collaborate on ... ProTeam
 - 📫 How to reach me ... badalchavan9766@gmail.com
